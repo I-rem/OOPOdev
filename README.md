@@ -50,6 +50,8 @@ Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi 
 Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
+![Screenshot](Ödev3.PNG)
+
 # 4. Online Film Sistemi
 
 Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
@@ -60,5 +62,7 @@ Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladı�
 Normal kullanıcılar ve aboneler film satın alabilirler.
 Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+
+![Screenshot](Ödev4.PNG)
 
 # 5. Asansör Simülasyonu
