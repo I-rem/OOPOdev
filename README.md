@@ -66,3 +66,5 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 ![Screenshot](Ödev4.PNG)
 
 # 5. Asansör Simülasyonu
+
+![Screenshot](Ödev5.PNG)
