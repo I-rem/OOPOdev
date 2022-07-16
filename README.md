@@ -34,6 +34,8 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
+![Screenshot](Ödev2.PNG)
+
 # 3. Uçuş Yönetim Sistemi
 
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
