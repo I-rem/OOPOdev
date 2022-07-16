@@ -1,6 +1,8 @@
 # Object Oriented Programming Ödev
 
-# 1. Üniversite YÖnetim Sistemi
+https://app.patika.dev/remy
+
+# 1. Üniversite Yönetim Sistemi
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
@@ -13,6 +15,8 @@
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+![Screenshot](Ödev1.PNG)
 
 # 2. Hayvanat Bahçesi Yönetimi
 
